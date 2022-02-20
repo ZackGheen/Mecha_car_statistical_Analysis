@@ -7,7 +7,7 @@ Summary statistic, regression analysis and t-test on two datasets of vehicle dat
 * Data: MechaCar_mpg.csv, Suspension_Coil.csv
 * Software: RStudio 1.4.1717
 
-**Linear Regression to Predict MPG
+**Linear Regression to Predict MPG**
 
 Using multiple linear regression on the MechaChar_mpg dataset, setting vehicle_length as the dependent variable provides the following results:
 
