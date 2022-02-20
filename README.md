@@ -1,5 +1,5 @@
 # **MechaCar Statistical Analysis**
-====================================
+-----------------------------------
 Summary statistic, regression analysis and t-test on two datasets of vehicle data
 
 ## Resources
