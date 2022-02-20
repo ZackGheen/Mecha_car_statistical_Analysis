@@ -6,7 +6,9 @@ Summary statistic, regression analysis and t-test on two datasets of vehicle dat
 --------------
 * Data: MechaCar_mpg.csv, Suspension_Coil.csv
 * Software: RStudio 1.4.1717
-Linear Regression to Predict MPG
+
+**Linear Regression to Predict MPG
+
 Using multiple linear regression on the MechaChar_mpg dataset, setting vehicle_length as the dependent variable provides the following results:
 
 The p-value (Pr(>|t| in the coefficients table) denotes the probability of each coefficient contributing a random amount of variance to the linear model. Assuming a significance level of 0.05, the vehicle's ground clearance and mpg are statistically unlikely to provide random amounts of variance (their p-levels are significantly below 0.05). The vehicle clearance and mpg therefore have a significant impact on the dependent variable, the vehicle length.
