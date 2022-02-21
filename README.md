@@ -34,7 +34,7 @@ While the variance across all lots is below the 100 pounds per square inch varia
 <img width="410" alt="mechacar_image4" src="https://user-images.githubusercontent.com/93295751/154871784-fff6611e-d669-4bb8-8661-0eaee12d9051.png">
 
 
-##**T-Tests on Suspension Coils**
+**T-Tests on Suspension Coils**
 -------------------------------
 Conducting a one-sample t-test that compares whether the PSI mean calculated across all lots is statistically different from the population data PSI mean of 1,500. The results show that the p-value at 0.06 is above our significance level of 0.05 and the two means are therefore statistically similar.
 
@@ -55,7 +55,7 @@ The p-value for PSI values at Lot 3 at 0.04 is below our significance level and 
 <img width="492" alt="mechacar_image7" src="https://user-images.githubusercontent.com/93295751/154872064-4d565325-04e3-4ae7-8e04-7d8acb740df0.png">
 
 
-##**Study Design: MechaCar vs. Competition**
+**Study Design: MechaCar vs. Competition**
 ------------------------------------------
 
 To quantify how the MechaCar stacks up against the competition, it would make sense to compare one main attribute: price by vehicle body type.
