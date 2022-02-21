@@ -23,7 +23,7 @@ Using multiple linear regression on the MechaChar_mpg dataset, setting vehicle_l
 <img width="618" alt="mechacar_image2" src="https://user-images.githubusercontent.com/93295751/154871623-27897216-dc7d-4c8b-a09d-59c2ffffedaa.png">
 
 
-##**Summary Statistics on Suspension Coils**
+**Summary Statistics on Suspension Coils**
 -------------------------------------
 Summary Statistics for the suspension coil pounds per square inch (PSI) metric are as follows:
 
