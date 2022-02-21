@@ -58,10 +58,10 @@ The p-value for PSI values at Lot 3 at 0.04 is below our significance level and 
 **Study Design: MechaCar vs. Competition**
 ------------------------------------------
 
-To quantify how the MechaCar stacks up against the competition, it would make sense to compare one main attribute: price by vehicle body type.
+To quantify how the MechaCar stacks up against the competition, I would like to determine how much the MechaCar costs to maintain in comparison to it's competitors.
 
-To compare price per vehicle body type, my null-hypothesis would be that there is no statistical difference between price per vehicle body type between MechaCar and the competition; my alternative hypothesis would be that there is.
+To compare Maintenance cost vs. competitors, my null-hypothesis would be that there is no statistical difference between the price of scheduled upkeep of the MechaCar and the competition; my alternative hypothesis would be that there is in fact a statistically significant difference in maintenance costs.
 
-For the analysis, I would first group the cars by body type (sedan, SUV, pickup, etc) and then perform a two-sample t-test. I would choose that test because the goal is to figure out if there is a statistical significance between the distribution means of the MechaCar vehicles and those of the competition.
+For the analysis, I would first group the cars by manufacturer, as well as by body types that are of the same class to the MechaCar and then perform a two-sample t-test. I would choose that test because the goal is to figure out a unique condition (maintence cost) and if there is a statistical significance between the distribution means of the MechaCar vehicles and those of the competition.
 
-To run the test I would need data that lists the body type and the price of vehicles for sale during the same timeframe for both MechaCar and competitors.
+To run the test I would need data that lists the cost of all manufacturer recommended maintenance, done at the recommended time/ mileage intervals for both MechaCar and competitors in order to determine if a cost differential exists. 
